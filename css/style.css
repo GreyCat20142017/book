@@ -1,3 +1,7 @@
+body {
+  background-color: olive;
+}
+
 h1 {
   color: darkblue;
 }
@@ -25,10 +29,11 @@ a {
 
 a:hover,
 a:focus {
-  color: olive;
+  color: yellow;
 }
 
 a:active {
-	text-decoration: underline;
+  text-decoration: underline;
 }
+
 
